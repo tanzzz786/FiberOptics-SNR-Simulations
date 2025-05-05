@@ -1,0 +1,11 @@
+REFERENCES
+Shannon, C. E. (1948). A mathematical theory of communication. Bell System Technical Journal, 27(3), 379–423, 623–656. https://doi.org/10.1002/j.1538-7305.1948.tb01338.x
+Proakis, J. G., & Salehi, M. (2008). Digital communications (5th ed.). McGraw-Hill.
+Oppenheim, A. V., & Schafer, R. W. (2010). Discrete-time signal processing (3rd ed.). Pearson.
+International Telecommunication Union. (2020). Forward error correction for high bit-rate DWDM submarine systems (ITU-T Recommendation G.975.1). https://www.itu.int/rec/T-REC-G.975.1
+Ip, E., & Kahn, J. M. (2008). Compensation of dispersion and nonlinear impairments using digital backpropagation. Journal of Lightwave Technology, 26(20), 3416–3425. https://doi.org/10.1109/JLT.2008.927791
+Gallager, R. G. (1962). Low-density parity-check codes. IRE Transactions on Information Theory, 8(1), 21–28. https://doi.org/10.1109/TIT.1962.1057683
+MacKay, D. J. C., & Neal, R. M. (1996). Near Shannon limit performance of low density parity check codes. Electronics Letters, 32(18), 1645–1646. https://doi.org/10.1049/el:19961132
+Ungerboeck, G. (1982). Channel coding with multilevel/phase signals. IEEE Transactions on Information Theory, 28(1), 55–67. https://doi.org/10.1109/TIT.1982.1056454
+Meta Connectivity. (2020, May 14). Introducing 2Africa: Connecting Africa to the world. Facebook Engineering. https://engineering.fb.com/2020/05/14/connectivity/2africa-subsea-cable
+Benedetto, S., & Biglieri, E. (1999). Principles of digital transmission: With wireless applications. Springer.
